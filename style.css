@@ -1,0 +1,13 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#wordCount{
+    color: #221f1f;
+    font-size: 10vh;
+    line-height: 33vh;
+    text-align: right;
+}
