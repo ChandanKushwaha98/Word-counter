@@ -1,13 +1,13 @@
-.main-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: beige;
 }
-#wordCount{
-    color: #221f1f;
-    font-size: 10vh;
-    line-height: 33vh;
-    text-align: right;
+#wordCount {
+  color: #221f1f;
+  font-size: 10vh;
+  line-height: 33vh;
+  text-align: right;
 }
